@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет+всем+👋!;+Мы+команда+HappyCode;" />
 </h1>
 
-
-<img align="right" alt="icon" width="300" src="https://media.giphy.com/media/gUNA7QH4AeLde/giphy.gif">
+<div align="center">
+    <img align="middle" alt="icon" width="300" src="https://media.giphy.com/media/gUNA7QH4AeLde/giphy.gif">
+</div>
 
 <div align="left">
   <h3>О нас</h2>
